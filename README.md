@@ -1,4 +1,4 @@
-# Quiz-3-Swigger-UI-DSC-Binar
+# Quiz-3-Swigger-UI-DSC-Binar-Wave2
 Dokumentasi API With Flask pada Swigger UI
 
 Sumber API with Flask:
